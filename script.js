@@ -4,7 +4,7 @@ const text =
 Hi baby!
 
 It’s been 2 weeks since we started talking, and honestly, the moment I added you pa lang, I already knew “crush ko na ‘to.” I didn’t expect na magiging everyday thing yung pag-uusap natin, to the point na you always manage to make me smile and feel that little spark of kilig. Even the simplest chats we have, I always look forward to them. The more we talk, the more I realize how happy I am whenever it’s you on the other end. Ang gaan, ang natural, and you always give me a reason to smile. I really love you, Gaven. Kahit ambilis kong ma-fall sayo, I can’t deny it anymore. Gustong-gusto talaga kita, and I want to treat you right, kasi alam kong you have such a pure heart. Ang bait mo, ang gentle mo, and ang dali mong mahalin. 
-I know baka mabilis yung mga nangyayari satin, but I swear, every little thing about you makes me fall even harder. Kahit yung simpleng boses mo, it feels like home—nakakagaan ng loob, nakakakilig, and I want to hear it everyday.
+I know baka mabilis yung mga nangyayari satin, but I swear, every little thing about you makes me fall even harder. 
 
 I love you so much, baby!
 
