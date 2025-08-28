@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fcefff;
+  overflow: hidden;
+  font-family: 'Georgia', serif;
+  color: purple;
+}
+
+.letter-box {
+  background: white;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  width: 70%;
+  max-width: 700px;
+  position: relative;
+  z-index: 2;
+}
+
+#message {
+  font-size: 18px;
+  line-height: 1.8;
+  white-space: pre-wrap;
+}
+
+#message strong {
+  display: block;
+  font-size: 28px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.heart {
+  position: absolute;
+  color: red;
+  font-size: 20px;
+  animation: floatUp 6s linear infinite;
+  opacity: 0.8;
+}
+
+@keyframes floatUp {
+  0% {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-800px) scale(1.5);
+    opacity: 0;
+  }
+}
